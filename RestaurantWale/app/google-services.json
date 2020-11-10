@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "22641894074",
+    "firebase_url": "https://restaurant-wale.firebaseio.com",
+    "project_id": "restaurant-wale",
+    "storage_bucket": "restaurant-wale.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22641894074:android:a059fdfd3799bd210f9883",
+        "android_client_info": {
+          "package_name": "com.example.restaurantwale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22641894074-b3ljo0i3r6vaqh5agm2n0ff31u24u9be.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA601e7u6FgyIrWjAkiibgBlVxUyRMh79U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22641894074-b3ljo0i3r6vaqh5agm2n0ff31u24u9be.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
